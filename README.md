@@ -1,2 +1,1 @@
-# Battleship
-My first ever programming project!
+My first ever programming project! a "Funcdamental of Computer and Programming" course's project. We did not used version control so this will be a little bit weird. We use allegro 5 library, only problem is that I can't compile the code to check if it is possible at this point. it was in 2022. I wrote this with another student, I did all the graphic with allegro, other than that other part of the codes was about 50/50 between me and the other student. I have uploaded a PDF file explaining everything. we got full score + a lot of bonus scores. we got 150 out of 100!
